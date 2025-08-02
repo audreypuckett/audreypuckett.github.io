@@ -1,2 +1,2 @@
-# audreylynnpuckett.github.io
+# audreypuckett.github.io
 personal website
