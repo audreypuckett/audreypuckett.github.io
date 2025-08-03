@@ -1,18 +1,18 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
-# compiled output
-dist/
-/out-tsc/
+# Compiled output
+/dist
+/tmp
 /out-tsc
 /bazel-out
 
 # Node
-/node_modules/
-/npm-debug.log
-/yarn-error.log
+/node_modules
+npm-debug.log
+yarn-error.log
 
 # IDEs and editors
-/.idea/
+.idea/
 .project
 .classpath
 .c9/
@@ -40,6 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-
-# Env
-.env
